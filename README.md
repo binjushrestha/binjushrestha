@@ -52,7 +52,7 @@
 
 | Project                         | Description                                                                      |
 |----------------------------------|----------------------------------------------------------------------------------|
-| Loan-UI Automation              | Dramatically reduced loan processing time via automated UIs and test scripting.   |
+| Bolt, Ease                       | Dramatically reduced loan processing time via automated UIs and test scripting.   |
 | Dynamic Form Builder (React)     | Migrated complex YAML schemas to intuitive and speedy React-based workflows.      |
 | Stripe/Equifax Integration       | Secure, modern lending verification system with increased compliance.             |
 

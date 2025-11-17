@@ -32,9 +32,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux,materialui,tailwind,bootstrap,nodejs,jest,git,docker,github,jenkins" />
 </p>
 
-<!-- Animated Skill Meter -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binjushrestha&layout=compact&theme=radical&hide_title=true" alt="Languages" height="145px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binjushrestha&layout=compact&bg_color=F9F5FF&title_color=ae81ff&text_color=9d72c0&icon_color=c084fc&theme=tokyonight&hide_title=true" alt="Languages" height="145px">
 </p>
 
 ---
@@ -52,9 +51,10 @@
 
 | Project                         | Description                                                                      |
 |----------------------------------|----------------------------------------------------------------------------------|
-| Bolt, Ease                       | Dramatically reduced loan processing time via automated UIs and test scripting.   |
-| Dynamic Form Builder (React)     | Migrated complex YAML schemas to intuitive and speedy React-based workflows.      |
-| Stripe/Equifax Integration       | Secure, modern lending verification system with increased compliance.             |
+| **Bolt, Ease**                   | Dramatically reduced loan processing time via automated UIs and test scripting. <br> <br> <b>BOLT by United Wholesale Mortgage (UWM):</b> A self-service platform that <b>significantly speeds up the loan underwriting process</b> by using advanced data extraction, automatic document recognition, and smart technology. Inputs and verifies information from documents such as driver’s licenses, income statements, and county records, streamlining approvals for both lenders and borrowers. |
+| **Dynamic Form Builder (React)** | Migrated complex YAML schemas to <b>intuitive and speedy React-based workflows</b>, enabling fully dynamic UIs and rapid form authoring for business-critical processes.      |
+| **Stripe/Equifax Integration**   | Secure, modern <b>lending verification system</b> built with Stripe and Equifax, driving compliance and seamless onboarding for mortgage brokers.             |
+
 
 ---
 

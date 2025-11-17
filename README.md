@@ -52,7 +52,7 @@
 
 | Project                         | Description                                                                      |
 |----------------------------------|----------------------------------------------------------------------------------|
-| **Bolt, Ease**                   | Dramatically reduced loan processing time via automated UIs and test scripting. <br> <br> <b>BOLT by United Wholesale Mortgage (UWM):</b> A self-service platform that <b>significantly speeds up the loan underwriting process</b> by using advanced data extraction, automatic document recognition, and smart technology. Inputs and verifies information from documents such as driver’s licenses, income statements, and county records, streamlining approvals for both lenders and borrowers. |
+| **Bolt, Ease**                   | Dramatically reduced loan processing time via automated UIs and test scripting. <br> <br>BOLT is a self-service platform that <b>significantly speeds up the loan underwriting process</b> by using advanced data extraction, automatic document recognition, and smart technology. Inputs and verifies information from documents such as driver’s licenses, income statements, and county records, streamlining approvals for both lenders and borrowers. |
 | **Dynamic Form Builder (React)** | Migrated complex YAML schemas to <b>intuitive and speedy React-based workflows</b>, enabling fully dynamic UIs and rapid form authoring for business-critical processes.      |
 | **Stripe/Equifax Integration**   | Secure, modern <b>lending verification system</b> built with Stripe and Equifax, driving compliance and seamless onboarding for mortgage brokers.             |
 

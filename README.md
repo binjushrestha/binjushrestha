@@ -3,10 +3,11 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </p>
 
-<!-- ========= 🚀 Animated Typing SVG intro ========== -->
+<!-- ========= 🚀 Animated Typing SVG intro with Lilac color ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=16c98d&background=FFF2D900&vCenter=true&center=true&width=900&lines=Hi%2C+I'm+Binju+Shrestha!;Front-End+Developer+%F0%9F%96%A5%EF%B8%8F;React+%7C+TypeScript+%7C+UI+Automation+%7C+QA+%7C+FinTech;Let%E2%80%99s+build+awesome+UIs+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=C084FC&background=F9F5FF00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Binju+Shrestha!;Front-End+Developer+%F0%9F%96%A5%EF%B8%8F;React+%7C+TypeScript+%7C+UI+Automation+%7C+QA+%7C+FinTech;Let%E2%80%99s+build+awesome+UIs+together!" />
 </p>
+
 
 <!-- ========= 🎨 Animated Dev Illustration ========== -->
 <p align="center">

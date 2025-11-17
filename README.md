@@ -3,10 +3,30 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </p>
 
-<!-- ========= 🚀 Animated Typing SVG intro with Lilac color ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=700&color=C084FC&background=F9F5FF00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Binju+Shrestha!;Front-End+Developer+%F0%9F%96%A5%EF%B8%8F;React+%7C+TypeScript+%7C+UI+Automation+%7C+QA+%7C+FinTech;Let%E2%80%99s+build+awesome+UIs+together!" />
+  <br/>
+  <svg width="70" height="70" viewBox="0 0 70 70" fill="none" style="margin-top:20px;" xmlns="http://www.w3.org/2000/svg">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 35 35" to="360 35 35" dur="3s" repeatCount="indefinite"/>
+      <ellipse cx="35" cy="35" rx="30" ry="12" fill="none" stroke="#C084FC" stroke-width="2"/>
+      <ellipse cx="35" cy="35" rx="12" ry="30" fill="none" stroke="#C084FC" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="0 35 35" to="360 35 35" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="35" cy="35" rx="30" ry="12" fill="none" stroke="#B4A7FF" stroke-width="2">
+        <animateTransform attributeName="transform" type="rotate" from="60 35 35" to="420 35 35" dur="8s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle cx="35" cy="35" r="6" fill="#C084FC">
+        <animate attributeName="r" values="6;9;6" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </svg>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA-5F4B8B?style=for-the-badge" />
 </p>
+
 
 
 <!-- ========= 🎨 Animated Dev Illustration ========== -->
